@@ -445,6 +445,13 @@ header .social-links div#menu-btn{
     top: 2rem;
 }
 
+@media screen and (max-width:728px) {
+    .popular-products .box-container .item .content .btn{
+        font-size: 1.6rem;
+        padding: 0.8rem 1.8rem;
+    }
+}
+
 /* ORDER */
 
 .order{
